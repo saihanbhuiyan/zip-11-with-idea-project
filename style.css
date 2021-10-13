@@ -1,0 +1,30 @@
+section{
+    margin-top: 20px;
+}
+a{
+    text-decoration: none;
+}
+h4{
+    margin-top: 20px; 
+    margin-left: 10px;
+     color: blue;
+}
+.img{
+    width: 30px;
+}
+.artical2{
+    margin-top: 15px;
+}
+/* .artical3{
+    position: absolute;
+width: 807px;
+height: 0px;
+left: 315px;
+top: 310px;
+border: 1px solid #D1D1D1;
+
+} */
+.img2{
+    width: 117px;
+    height: 117px;
+}
